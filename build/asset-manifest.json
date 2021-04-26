@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/interview-task_repository/static/css/main.4eda8b47.chunk.css",
+    "main.js": "/interview-task_repository/static/js/main.f9697880.chunk.js",
+    "main.js.map": "/interview-task_repository/static/js/main.f9697880.chunk.js.map",
+    "runtime-main.js": "/interview-task_repository/static/js/runtime-main.f5491a07.js",
+    "runtime-main.js.map": "/interview-task_repository/static/js/runtime-main.f5491a07.js.map",
+    "static/js/2.fa027522.chunk.js": "/interview-task_repository/static/js/2.fa027522.chunk.js",
+    "static/js/2.fa027522.chunk.js.map": "/interview-task_repository/static/js/2.fa027522.chunk.js.map",
+    "static/js/3.32a1a097.chunk.js": "/interview-task_repository/static/js/3.32a1a097.chunk.js",
+    "static/js/3.32a1a097.chunk.js.map": "/interview-task_repository/static/js/3.32a1a097.chunk.js.map",
+    "index.html": "/interview-task_repository/index.html",
+    "static/css/main.4eda8b47.chunk.css.map": "/interview-task_repository/static/css/main.4eda8b47.chunk.css.map",
+    "static/js/2.fa027522.chunk.js.LICENSE.txt": "/interview-task_repository/static/js/2.fa027522.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5491a07.js",
+    "static/js/2.fa027522.chunk.js",
+    "static/css/main.4eda8b47.chunk.css",
+    "static/js/main.f9697880.chunk.js"
+  ]
+}
